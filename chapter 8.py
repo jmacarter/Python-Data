@@ -7,13 +7,13 @@ print "Blastoff!"
 friends = ['Joseph','Jeremy','Jimmy Jackhammer','Tyrone', 'Jamal', 'Terrance']
 
 for i in friends:
-    print i+' fucked me'
+    print i+' is a friend'
 
 print range(len(friends))
 
 for i in range(len(friends)):
     friend = friends[i]
-    print friend+' gotta big ol dick'
+    print friend+' is a good friend'
 
 a = [1,2,3]
 b = [4,5,6]
